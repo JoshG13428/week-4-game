@@ -1,0 +1,113 @@
+body {
+
+background-image: url("../images/70's_Wallpaper.JPG");
+
+}
+
+#header{
+
+font-size:40px;
+font-weight:bold;
+background-color: orange;
+width: 30%;
+
+}
+
+
+#instructions{
+
+background-color: #d2b48c;
+width:50%;
+}
+
+p {
+
+color:green;
+font-size:20px;
+
+}
+
+
+#pointCounter{
+background-color: #98fb98;
+height:140px;
+display:inline-block;
+width:20%;
+margin-right: 50px;
+font-size: 40px;
+
+}
+
+#winsLosses{
+background-color: #add8e6;
+height:140px;
+display:inline-block;
+width:7%;
+
+
+}
+
+#gems {
+
+height:100px;
+margin-top: 15px;
+}
+
+
+
+#ruby { 
+background-color: white;
+height:100px;
+display:inline-block;
+width:7%;
+background-image: url();
+}
+
+
+#emerald {
+background-color: white;
+height:100px;
+display:inline-block;
+width:7%;
+background-image: url();
+}
+
+#stones{
+background-color: white;
+height:100px;
+display:inline-block;
+width:7%;
+background-image: url();
+
+}
+
+#magenta{
+background-color: white;
+height:100px;
+display:inline-block;
+width:7%;
+background-image: url();
+
+}
+
+
+#scoreText{
+background-color: #00e5ee; 
+width:20%;
+height:40px;
+margin-top: 20px;
+
+}
+
+#scoreCounter{
+background-color: #00e5ee; 
+width:20%;
+height:200px;
+font-size: 40px;
+
+}
+
+
+
+
+
